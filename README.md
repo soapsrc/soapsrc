@@ -7,4 +7,4 @@
 - 💬 Ask me about: front-end coding, socket programming, threading, UX/UI Design
 - :computer: Languages I know: Java, SQL, C/C++, HTML, CSS, Python, JavaScript, and Haskell
 - :briefcase: Linkedin: https://www.linkedin.com/in/sophiale4/
-- 😄 Pronouns: she/her
+- 👧 Pronouns: she/her
