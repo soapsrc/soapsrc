@@ -14,23 +14,23 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-FFF1E6" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-FDE2E4" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-FAD2E1" />
-  <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen" />
-  <img alt="Vue" src="https://img.shields.io/badge/-VueJS-61b083" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-64a2c9" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120" />
-  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85">
-  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD" />
-  <img alt="Microsoft" src="https://img.shields.io/badge/C%23-239120" />
-  <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD" />
-  <img alt="Microsoft" src="https://img.shields.io/badge/C%23-239120" />
-  <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000" />
-  <img alt="Microsoft" src="https://img.shields.io/badge/C%23-239120" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137" />
+  <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-E2ECE9" />
+  <img alt="Vue" src="https://img.shields.io/badge/-VueJS-BEE1E6" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-F0EFEB" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-DFE7FD" />
+  <img alt="C" src="https://img.shields.io/badge/C-CDDAFD" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-EAE4E9" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-FFF1E6" />
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-FDE2E4">
+  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-E2ECE9" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-BEE1E6" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/C%23-F0EFEB" />
+  <img alt="SAP" src="https://img.shields.io/badge/SAP-DFE7FD" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-CDDAFD" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/C%23-EAE4E9" />
+  <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-FFF1E6" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/C%23-FDE2E4" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-E2ECE9" />
                                                               
 </div>
 <hr>
