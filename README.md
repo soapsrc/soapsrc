@@ -17,6 +17,6 @@
   <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen" />
   <img alt="Vue" src="https://img.shields.io/badge/-VueJS-61b083" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-64a2c9" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00" />
 </div>
 <hr>
