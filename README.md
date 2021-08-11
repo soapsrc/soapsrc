@@ -10,15 +10,15 @@
 
 ### Technologies & Tools
 <div style="display: flex">
-  <img src="https://img.shields.io/badge/-Python-blue"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-lightgrey" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-critical" />
+  <img src="https://img.shields.io/badge/-Python-EAE4E9"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-FFF1E6" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-FDE2E4" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-FAD2E1" />
   <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen" />
   <img alt="Vue" src="https://img.shields.io/badge/-VueJS-61b083" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-64a2c9" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00" />
-  <img alt="C" src="	https://img.shields.io/badge/C-00599C" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120" />
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85">
@@ -29,6 +29,8 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD" />
   <img alt="Microsoft" src="https://img.shields.io/badge/C%23-239120" />
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/C%23-239120" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137" />
                                                               
 </div>
 <hr>
