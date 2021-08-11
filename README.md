@@ -20,7 +20,6 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00" />
   <img alt="C" src="	https://img.shields.io/badge/C-00599C" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120" />
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85">
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF" />
