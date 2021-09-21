@@ -27,7 +27,6 @@ My involvement with the Information Services team at Cenovus has sparked further
   <img alt="C#" src="https://img.shields.io/badge/C%23-FFF1E6" />
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-FDE2E4">
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-E2ECE9" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-BEE1E6" />
   <img alt="Microsoft" src="https://img.shields.io/badge/C%23-F0EFEB" />
   <img alt="SAP" src="https://img.shields.io/badge/SAP-DFE7FD" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-CDDAFD" />
