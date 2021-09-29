@@ -4,13 +4,12 @@ Hello World! I'm Sophia, an aspiring software developer based in Canada. I am cu
 
 My involvement with the Information Services team at Cenovus has sparked further interest in connecting with clients and creating lasting impressions on them. The leadership and collaboration skills that I have improved upon during this internship has made me more well-rounded as they add onto my strong technical and critical-thinking skills previously established from computer science.
 
-- 🔭 I’m currently working on: adding to my portfolio
+- 🔭 I’m currently working on: completing univeristy projects
 - 👯 I’m looking to collaborate on: general front-end development projects
-- 🤔 I’m looking for help with: back-end coding
-- 💬 Ask me about: front-end coding, socket programming, threading, UX/UI Design
+- 🤔 I’m looking for help with: Ruby on Rails, Cloud-based architecture
+- 💬 Ask me about: web-development, the software development lifecycle, UX/UI Design, OOP, SQL
 - :computer: Languages I know: Java, SQL, C/C++, HTML, CSS, Python, JavaScript, and Haskell
 - :briefcase: Linkedin: https://www.linkedin.com/in/sophiale4/
-- 👧 Pronouns: she/her
 
 ### Technologies & Tools
 <div style="display: flex">
