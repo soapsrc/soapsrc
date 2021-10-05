@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Hello World! I'm Sophia, an aspiring software developer based in Canada. I am currently a computer science undergraduate student at the University of Calgary. I am seeking opportunities to continue building technology solutions and ideas at a company with a highly cooperative and fast-paced work environment. I am recently completing a 16-month co-op position where I have gained experienced in identifying and evaluating risks, mitigation and control activities, and business process designing.
+Hello World! I'm Sophia, a software developer based in Canada. I am currently a computer science undergraduate student at the University of Calgary. I am seeking opportunities to continue building technology solutions and ideas at a company with a highly cooperative and fast-paced work environment. I am recently completing a 16-month co-op position where I have gained experienced in identifying and evaluating risks, mitigation and control activities, and business process designing.
 
 My involvement with the Information Services team at Cenovus has sparked further interest in connecting with clients and creating lasting impressions on them. The leadership and collaboration skills that I have improved upon during this internship has made me more well-rounded as they add onto my strong technical and critical-thinking skills previously established from computer science.
 
