@@ -2,7 +2,7 @@
 
 Hello World! I'm Sophia, a software developer, web designer, and game engineer based in Canada. I graduated from the University of Calgary with a computer science undergraduate degree in 2022. I am currently working as a C++ game engineer at one of the largest video game publishing companies in the world.
 
-I have a strong foundation in mathematics, logical analysis, and computing machinery. My academic interests are grounded in UX/UI design, mobile application development, cloud computing, front-end development, and data visualization. 
+I have a strong foundation in mathematics, logical analysis, and computing machinery. My academic interests are grounded in UX/UI design, mobile application development, cloud computing, front-end development, and data visualization. The leadership and collaboration skills that I have improved upon during my career thus far has made me more well-rounded as they add onto my strong technical and critical-thinking skills previously established from computer science.
 
 - 🔭 I’m currently working on: freelance web design for small businesses
 - 👯 I’m looking to collaborate on: general front-end development projects
