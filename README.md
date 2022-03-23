@@ -1,10 +1,8 @@
-### Hello World 👋
+### README
 
-Hello World! I'm Sophia, a software developer based in Canada. I am currently a computer science undergraduate student at the University of Calgary. I am seeking opportunities to continue building technology solutions and ideas at a company with a highly cooperative and fast-paced work environment. I am recently completing a 16-month co-op position where I have gained experienced in identifying and evaluating risks, mitigation and control activities, and business process designing.
+Hello World! I'm Sophia, a software developer, web designer, and game engineer based in Canada. I graduated from the University of Calgary with a computer science undergraduate degree in 2022. I am currently working as a C++ game engineer at one of the largest video game publishing companies in the world.
 
-My involvement with the Information Services team at Cenovus has sparked further interest in connecting with clients and creating lasting impressions on them. The leadership and collaboration skills that I have improved upon during this internship has made me more well-rounded as they add onto my strong technical and critical-thinking skills previously established from computer science.
-
-- 🔭 I’m currently working on: completing univeristy projects
+- 🔭 I’m currently working on: web design freelancing
 - 👯 I’m looking to collaborate on: general front-end development projects
 - 🤔 I’m looking for help with: Ruby on Rails, Cloud-based architecture
 - 💬 Ask me about: web-development, the software development lifecycle, UX/UI Design, OOP, SQL
