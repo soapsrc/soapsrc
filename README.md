@@ -4,7 +4,7 @@ Hello World! I'm Sophia, a software developer, web designer, and game engineer b
 
 My academic interests are grounded in UX/UI design, mobile application development, cloud computing, front-end development, and data visualization.
 
-- 🔭 I’m currently working on: kafka data streaming project
+- 🔭 I’m currently working on: freelancing in web-development and ugc
 - 👯 I’m looking to collaborate on: general front-end development projects
 - 🤔 I’m looking for help with: Ruby on Rails
 - 💬 Ask me about: web-development, the software development lifecycle, UX/UI Design, OOP, SQL
